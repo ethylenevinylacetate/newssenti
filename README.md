@@ -2,4 +2,5 @@ This is the start of a student project that visualises bias in news media. The f
 
 The starter code for this project is from the news sentiment analysis from the Newscatcher blog: https://newscatcherapi.com/blog/sentiment-analysis-using-python
 
+For more information about the newscatcher API:
 https://newscatcherapi.com/
